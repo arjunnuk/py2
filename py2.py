@@ -9,7 +9,7 @@ psum=0
 nsum=0
 for i in li:
     if(i>0):
-        psum=psum+i
+        psum= psum+i
     else:
         nsum=nsum+i
 print("the sum positive numbers is",psum)
