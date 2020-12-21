@@ -1,7 +1,7 @@
 li=[]
 n=int(input("enter the value of n"))
 for i in range(0,n):
-    print("enter the element",i+1)
+    print("enter the  element",i+1)
     x=int(input())
     li.append(x)
 print(li)
