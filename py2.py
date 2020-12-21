@@ -13,5 +13,5 @@ for i in li:
     else:
         nsum=nsum+i
 print("the sum positive numbers is",psum)
-print("the sum negative numbers is",nsum)
+print("the sm negative numbers is",nsum)
 print("arjunuk")
